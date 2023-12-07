@@ -1,3 +1,4 @@
+package Java;
 public class QuickSort {
     public static void quickSort(int[] array, int low, int high) {
         if (low < high) {

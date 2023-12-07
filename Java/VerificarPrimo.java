@@ -1,3 +1,4 @@
+package Java;
 public class VerificarPrimo {
     public static boolean ehPrimo(int numero) {
         if (numero <= 1) {

@@ -1,3 +1,4 @@
+package Java;
 public class Somatorio {
     public static int calcularSomatorio(int[] numeros) {
         int soma = 0;

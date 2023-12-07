@@ -1,3 +1,4 @@
+package Java;
 public class CalculoMDC {
     public static int calcularMDC(int a, int b) {
         while (b != 0) {
